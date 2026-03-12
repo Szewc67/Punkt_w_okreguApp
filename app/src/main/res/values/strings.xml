@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:android="http://schemas.android.com/tools"
+    android:ignore="NamespaceTypo">
+    <string name="app_name">Task1</string>
+    <string name="textWelcome">Kalkulator do sprawdzania czy punkt znajduje się w okręgu</string>
+    <string name="inputOkrag">Podaj dane okręgu</string>
+    <string name="podaj_x">Podaj x:</string>
+    <string name="podajWarX">Podaj wartość współrzędnej x</string>
+    <string name="podaj_y">Podaj y:</string>
+    <string name="poadjWarY">Podaj wartość współrzędnej y</string>
+    <string name="inputR">Podaj promień r</string>
+    <string name="inputWarR">Podaj promień r</string>
+    <string name="inputPoint">Podaj dane punktu</string>
+    <string name="wyczy">Wyczyść</string>
+    <string name="sprawd">Sprawdź</string>
+    <string name="informacje">Informacje</string>
+    <string name="long_text">
+        <b>Okrąg</b>\n
+        Okręgiem o środku <i>O</i> i promieniu <i>r</i> nazywamy zbiór punktów płaszczyzny, których odległość od punktu <i>O</i> wynosi <i>r</i>. Okręg oznaczamy o <i>(O,r)</i> i czytamy okrąg o środku w punkcie <i>O</i> i promieniu <i>r</i>.
+        \n<b>Promień</b> okręgu jest to odcinek łączący środek okręgu z dowolnym punktem okręgu.
+        \n<b>Cięciwa</b> jest to odcinek łączący dwa dowolne punkty okręgu.
+        \n<b>Średnica</b> jest to cięciwa przechodząca przez środek okręgu.
+        \n<b>Styczna</b> jest to prosta mająca z okręgiem tylko jeden punkt wspólny.
+        \n<b>Kąt</b> między styczną do okręgu a promieniem wychodzącym z punktu styczności jest prosty.
+        \n<b>Sieczna</b> jest to prosta przecinająca okrąg w dwóch dowolnych punktach.
+        \n<b>Łuk</b> jest to dowolny fragment okręgu ograniczony dwoma punktami.
+
+    </string>
+    <string name="wstecz">Wstecz</string>
+</resources>
